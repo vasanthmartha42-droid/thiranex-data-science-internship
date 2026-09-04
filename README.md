@@ -1,0 +1,1 @@
+# thiranex-data-science-internship
